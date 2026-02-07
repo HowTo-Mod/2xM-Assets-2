@@ -1,0 +1,14 @@
+[
+  {
+    "id": "dino",
+    "name": "Chrome Dino",
+    "path": "games/dino/index.html",
+    "icon": "games/dino/icon.png"
+  },
+  {
+    "id": "snake",
+    "name": "Snake",
+    "path": "games/snake/index.html",
+    "icon": "games/snake/icon.png"
+  }
+]
